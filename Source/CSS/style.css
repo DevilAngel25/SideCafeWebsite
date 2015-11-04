@@ -1,0 +1,36 @@
+body  {
+	   border-collapse: collapse;
+	   border-style: solid;
+	   border-width: 4px;
+     }
+
+table {
+       border-collapse: collapse;
+	   border-style: solid;
+	   border-width: 4px;
+       padding: 10px;
+	   width: 100%
+      }
+
+td	  {
+	   text-align: left;
+	   border-style: solid;
+	   border-width: thin;
+       padding: 10px;
+	   font-size: 120%
+	  }
+	  
+th	  {
+	   text-align: left;
+	   border-style: solid;
+	   border-width: thin;
+       padding: 10px;
+	   font-size: 150%
+	  }
+
+p     {
+	   text-align: left;
+       padding: 10px;
+	   font-size: 100%
+	  }
+
